@@ -5,3 +5,4 @@ class Teacher
 
 
 end
+#learn spec/teacher_spec.rb
